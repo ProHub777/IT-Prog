@@ -1,0 +1,35 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title-question {
+    color: white;
+}
+
+.option-2 {
+    margin: 0 50px;
+}
+
+.why-we {
+    background-color: #73BCFF;
+    width: 320px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.why-we h1 {
+    font-size: 25px;
+}
+
+.why-we p {
+    padding: 10px 0;
+}

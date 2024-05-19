@@ -1,0 +1,39 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.main-on {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-on {
+    background-color: #FFB6E2;
+    width: 35%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.txt-on {
+    color: white;
+    font-size: 20px;
+}
+
+.txt-on p {
+    padding: 40px 0;
+}
+
+.btn-on button {
+    border: none;
+    color: white;
+    font-size: 15px;
+    background-color: #8A44F2;
+    padding: 20px;
+    width: 50%;
+    border-radius: 15px;
+    cursor: pointer;
+}

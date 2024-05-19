@@ -1,0 +1,41 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.back-colr{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3E3D3D;
+    height: 140vh;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.back-clr {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 30px 0;
+    width: 37%;
+    border-radius: 10px;
+}
+
+.back-clr img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.back-clr h1 {
+    text-align: center;
+    padding: 5px 0;
+}
+
+.back-clr p {
+    text-align: center;
+}
